@@ -1,0 +1,10 @@
+streamlit
+google-genai
+python-dotenv
+pypdf
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+numpy==2.3.5
+torch
+transformers
